@@ -1,0 +1,2 @@
+# A-Data-Driven-Study-of-Aviation-Accidents-Fatalities-and-Safety-Trends
+This project analyzed historical aviation accident data from the Aviation Safety Network (1919–2023) using Python. The dataset was cleaned, validated, and examined to study long-term safety trends, key historical periods, accident severity, and changes in accident types, focusing on trends and historical interpretation rather than absolute risk.
